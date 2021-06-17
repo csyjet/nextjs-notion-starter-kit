@@ -12,9 +12,9 @@ module.exports = {
   author: 'NAYIS CHEN',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: '这是NAYIS的个人博客',
+  socialImageTitle: 'ZER0',
+  socialImageSubtitle: 'BLOG NAY1S',
 
   // social usernames (optional)
   twitter: '',
